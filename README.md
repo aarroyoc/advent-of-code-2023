@@ -14,3 +14,4 @@ The operating system I'm using on the Mango Pi is a community build of Armbian 2
 Languages and systems used:
 
 - Prolog / Scryer Prolog v0.9.3
+- Haskell / GHC v9.0.2
