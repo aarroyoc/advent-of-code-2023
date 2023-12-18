@@ -16,3 +16,5 @@ Languages and systems used:
 - Prolog / Scryer Prolog v0.9.3
 - Haskell / GHC v9.0.2
 - RISC-V assembler / GCC 12.3.0
+- Java / OpenJDK 21
+- Rust / Rust 1.70.0
